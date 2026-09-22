@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0d61d677d564550029e512a0",
+  "owner": "afhjsjkqr",
+  "repo": "page-a794ea93f965bc1a852a0686",
+  "title": "ZCSSR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a794ea93f965bc1a852a0686",
+      "a": "ZCSSR",
+      "b": "2027官方最新地址导航",
+      "entity": "ZCSSR",
+      "brand": "ZCSSR",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dcfd04f3744faa92319b3a5538b2f406ba48fc486ab2e7b47bf37534fb13ba07",
+      "content": {
+        "primary_entity": "ZCSSR",
+        "keyword1": "ZCSSR",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，再导入订阅链接完成配置。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "为跨境加速做准备",
+          "AI_DESCRIPTION": "，以套餐选择、设备数量与订阅周期为主要参考，帮助访客按需匹配基础版、旗舰版或团队版。基础版适合三台设备以内的轻量使用，旗舰版面向五台设备并优化游戏线路，团队版支持二十台设备与定制路由。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度比较套餐，再结合客户端配置完成订阅。",
+          "AI_FEATURES_TITLE": "套餐选择与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、三台设备；旗舰版 300GB、五台设备；团队版 1000GB、二十台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，按实际使用周期选择。",
+          "AI_FEATURE_TITLE_1": "按流量与设备挑选",
+          "AI_FEATURE_TITLE_2": "按线路需求挑选",
+          "AI_FEATURE_TITLE_3": "按订阅周期挑选",
+          "AI_GUIDE_INTRO": "先确定设备数量与用途，对照套餐选出合适版本，再按对应客户端说明导入订阅。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_HERO_INTRO": "ZCSSR 提供多档海外加速套餐，覆盖基础浏览、流媒体与团队协作场景，可按设备数量与流量需求选择相应版本。",
+          "AI_HERO_SUBTITLE": "ZCSSR 跨境加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按设备与流量划分",
+          "AI_HIGHLIGHT_2": "旗舰版支持 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付价格低于按月累计",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，从基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在所选套餐的适配范围内，并了解同时在线设备数量。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅链接，完成节点选择后开始使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ZCSSR 加速套餐概览",
+          "AI_FAQ_ANSWER_1": "设备限制取决于所选套餐：基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出后可升级套餐，或在客户端退出多余设备登录。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB 流量，旗舰版 300GB，团队版 1000GB。流量为套餐周期内累计，超量后可等下一周期或升级套餐。",
+          "AI_FAQ_ANSWER_3": "可以。基础版的普通线路节点池能满足日常浏览与基础流媒体，旗舰版与团队版解锁全节点原生流媒体，游戏场景还有 IPLC 专线优化。",
+          "AI_FAQ_ANSWER_4": "需要按客户端类型导入订阅链接。iOS 使用 Shadowrocket，安卓用 Clash for Android，电脑用 Clash Verge 或 v2rayN，复制订阅地址后客户端会自动拉取节点。",
+          "AI_FAQ_ANSWER_5": "基础版 15 元/月，年付 150 元；旗舰版 35 元/月，年付 350 元；团队版 85 元/月，年付 850 元。年付平均每月成本更低。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐的月流量如何分配？",
+          "AI_FAQ_QUESTION_3": "新手适合选哪个套餐？",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "按月付和按年付价格差多少？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lyeinbw.cn",
+    "host": "lyeinbw.cn"
+  },
+  "file_hashes": {
+    "index.html": "4096f81443b2b4db6a55a8c17c87ee079116640e4e86c9a3a184169ee0ded4ca",
+    "sitemap.xml": "1497239e8522d3c34260e50098df5ed917380ab74901e5b439662cfe5195531e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c38171191791df802f613eb37ded00cf1bb164c9403cfd2d26462fc0c02853a7",
+    "robots.txt": "e47743376e98ca83f7f2b90b8d58069adb8c966c2be7d83c5fbe7a0e4aa1c591",
+    "b667435f62823e0fedc2602253b2704c.txt": "e17bf29e5900bb82f4e5ca5eb4c248e1c92167dcec1f4617e583a00bd88d1fc5"
+  },
+  "revision": "ae730dfcc23c563e1618fa0e057352ccdc1d522cc4d8d0dc13d3626c71a1b6c5"
+}
